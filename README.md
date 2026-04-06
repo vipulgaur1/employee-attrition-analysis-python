@@ -1,3 +1,7 @@
+## 📊 Project Overview
+
+![Attrition Overview](images/plot1.png)
+
 # Employee Attrition Analysis & Business Insights
 
 ## 📌 Problem Statement
