@@ -1,5 +1,3 @@
-<img width="1989" height="915" alt="plot1_overview" src="https://github.com/user-attachments/assets/3c868361-a44d-4da7-bff5-77f0c9307ee2" /># Employee Attrition Analysis & Business Insights
-
 ## 📌 Problem Statement
 
 Employee attrition leads to increased hiring costs, productivity loss, and business instability.
@@ -67,13 +65,9 @@ The analysis focuses on identifying high-risk employee segments and uncovering r
 
 ## 📷 Visualizations
 
-(Add your best 4–5 graphs here)
-
-Example:![Uploading plot1_overview.png…]()
-
-![Attrition Overview](images/plot1.png)
-![Income Analysis](images/plot2.png)
-![Work Pressure Analysis](images/plot3.png)
+Example:<img width="1989" height="915" alt="plot1_overview" src="https://github.com/user-attachments/assets/38cb5cce-6d65-4f1e-8513-4a38744723fc" />
+<img width="2378" height="1035" alt="plot2_income" src="https://github.com/user-attachments/assets/84b0102b-3769-4fa1-ab8d-11f3b5af4d7a" />
+<img width="2084" height="888" alt="plot3_workpressure" src="https://github.com/user-attachments/assets/496fbd9b-20db-4880-ae4f-125aceef0814" />
 
 ---
 
